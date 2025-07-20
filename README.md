@@ -25,6 +25,3 @@ This repository provides a machine learning framework for early prediction of Ch
 - Jupyter Notebooks
 
 ---
-
-## 📁 Project Structure
-
